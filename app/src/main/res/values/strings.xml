@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云跳</string>
+    <string name="accessibility_description">检测开屏广告并模拟点击“跳过”。可自定义规则，支持微信小程序广告。不联网、不采集任何数据。</string>
+    <string-array name="match_modes">
+        <item>包含</item>
+        <item>完全相等</item>
+        <item>正则</item>
+    </string-array>
+</resources>
